@@ -1,0 +1,14 @@
+{
+    "__accountComment_"  : " Find your account identifier: https://docs.snowflake.com/en/user-guide/admin-account-identifier#finding-the-organization-and-account-name-for-an-account",
+    "account"            : "ACCOUNT_IDENTIFIER",
+    "__userComment_"     : "Personal user.",
+    "user"               : "USERNAME",
+    "__credComment_"     : "either enter your password if you are confident it's safe to store it, or use externalbrowser authenticator",
+    "__credComment2_"    : "delete the externalbrowser authenticator row if you don't want to use that option",
+    "password"	       : "PASSWORD",
+    "role"               : "ACCOUNTADMIN",
+    "warehouse"          : "WAREHOUSE_NAME",
+    "database"           : "DB_NAME",
+    "schema"             : "SCHEMA_NAME"
+  }
+  
