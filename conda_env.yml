@@ -12,3 +12,5 @@ dependencies:
   - matplotlib
   - pip:
     - snowflake-ml-python # temporary till it's in the Snowflake conda channel
+    - plotly==5.9
+    - streamlit==1.22
